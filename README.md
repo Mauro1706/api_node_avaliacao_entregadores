@@ -1,5 +1,8 @@
 <p align="center"><a href="https://static.thuisbezorgd.nl/images/restaurants/nl/NRN07RO/logo_465x320.png" target="_blank"><img src="https://static.thuisbezorgd.nl/images/restaurants/nl/NRN07RO/logo_465x320.png" width="350"></a></p>
 
+## Pré-requisitos para o sistema
+### `Instalr o MongoDB`
+
 ## Intalando todas as dependencias indicadas pelo package.json
 ### `npm install`
 
