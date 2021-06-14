@@ -38,7 +38,7 @@ app.get("/listar", (req, res) => {
   });
 });
 
-app.get("/avaliacao/:id", (req, res) => {
+app.get("/buscar/:id", (req, res) => {
 
   Avaliacao.findOne({ _id: req.params.id  }).then((avaliacao) => {
     return res.json(avaliacao);
