@@ -1,4 +1,4 @@
-<p align="center"><a href="https://static.thuisbezorgd.nl/images/restaurants/nl/NRN07RO/logo_465x320.png" target="_blank"><img src="https://static.thuisbezorgd.nl/images/restaurants/nl/NRN07RO/logo_465x320.png" width="350"></a></p>
+<p align="center"><a href="https://eattasty.pt/home" target="_blank"><img src="http://www.famalicaomadein.pt/op/image/?co=12440&h=32ee6" width="350"></a></p>
 
 ## Pré-requisitos para o sistema
 ### `Instalr o MongoDB`
