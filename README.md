@@ -1,13 +1,13 @@
 <p align="center"><a href="https://eattasty.pt/home" target="_blank"><img src="http://www.famalicaomadein.pt/op/image/?co=12440&h=32ee6" width="350"></a></p>
 
-## Pré-requisitos para o sistema
-### `Instalr o MongoDB`
+## `Pré-requisitos para o sistema`
+#### `Instalr o MongoDB`
 
-## Intalando todas as dependencias indicadas pelo package.json
-### `npm install`
+## `Intalando todas as dependencias`
+#### `npm install`
 
-## Iniciando servidor com Nodemon
-### `npm rum dev`
+## `Iniciando servidor com Nodemon`
+#### `npm rum dev`
 
 
 ## DUVIDAS E CONTATOS
